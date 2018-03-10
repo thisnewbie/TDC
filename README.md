@@ -1,2 +1,2 @@
 # TDC
-The decentralized citizen "Idead lies be the owner of your data"
+The decentralized citizen "Own your data, don't let people with automation"
